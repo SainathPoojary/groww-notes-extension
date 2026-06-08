@@ -3,6 +3,9 @@
     "name": "Groww Notes",
     "version": "1.0.0",
     "description": "Add quick notes for any stocks",
+    "action":{
+        "default_icon": "icon.png"
+    },
     "content_scripts": [
         {
             "matches": [
