@@ -1,0 +1,12 @@
+{
+  "name": "groww-notes-extension",
+  "version": "1.0.0",
+  "description": "Chrome extension to add quick notes for any stocks on Groww",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "", 
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.0"
+}
